@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.3.0](https://github.com/jeremysball/taskferry/compare/taskferry-v3.2.0...taskferry-v3.3.0) (2026-08-10)
+
+
+### Features
+
+* **sandbox:** add --ro-bind, rename --allowed-dirs to --rw-bind ([#401](https://github.com/jeremysball/taskferry/issues/401)) ([bdbd8c8](https://github.com/jeremysball/taskferry/commit/bdbd8c85bdbcc205101ed298d29e516f139ef74d))
+
+
+### Bug Fixes
+
+* **tasks:** tighten parseNumstatLine to reject non-integer/non-finite numstat tokens ([#417](https://github.com/jeremysball/taskferry/issues/417)) ([ee0184f](https://github.com/jeremysball/taskferry/commit/ee0184f1003c81f4d592de16bce8443b1bf88bd9))
+
 ## [3.2.0](https://github.com/jeremysball/taskferry/compare/taskferry-v3.1.0...taskferry-v3.2.0) (2026-08-09)
 
 
